@@ -26,12 +26,6 @@ public class TurkeyEntity extends Entity {
 
     }
 
-    public static DefaultAttributeContainer.Builder createTurkeyBombAttributes() {
-        return MobEntity.createMobAttributes()
-                .add(EntityAttributes.GENERIC_MAX_HEALTH, 15)
-                .add(EntityAttributes.GENERIC_ARMOR, 0.5f);
-    }
-
     @Override
     protected void readCustomDataFromNbt(NbtCompound nbt) {
 

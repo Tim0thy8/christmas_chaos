@@ -30,7 +30,5 @@ public class ChristmasChaos implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModSounds.registerSounds();
 		ModBlocks.registerModBlocks();
-
-		FabricDefaultAttributeRegistry.register(ModEntities.TURKEY_BOMB, TurkeyEntity.createTurkeyBombAttributes());
 	}
 }

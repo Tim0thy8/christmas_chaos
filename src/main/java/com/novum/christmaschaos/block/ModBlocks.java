@@ -1,7 +1,9 @@
 package com.novum.christmaschaos.block;
 
 import com.novum.christmaschaos.ChristmasChaos;
+import com.novum.christmaschaos.block.custom.ElfFlagBlock;
 import com.novum.christmaschaos.block.custom.FudgeBlock;
+import com.novum.christmaschaos.block.custom.SantaFlagBlock;
 import com.novum.christmaschaos.block.custom.SnowMineBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
@@ -20,6 +22,12 @@ public class ModBlocks {
             new SnowMineBlock(FabricBlockSettings.copyOf(Blocks.SNOW_BLOCK).sounds(BlockSoundGroup.GRASS)));
     public static Block FUDGE_BLOCK = registerBlock("fudge_block",
             new FudgeBlock(FabricBlockSettings.copyOf(Blocks.MUD).velocityMultiplier(0.3f)));
+
+    public static Block SANTA_FLAG = registerBlock("santa_flag",
+            new SantaFlagBlock(FabricBlockSettings.copyOf(Blocks.WHITE_WOOL)));
+
+    public static Block ELF_FLAG = registerBlock("elf_flag",
+            new ElfFlagBlock(FabricBlockSettings.copyOf(Blocks.WHITE_WOOL)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
