@@ -1,0 +1,32 @@
+{
+  "item.christmaschaos.snow_mod": "Snow Mod",
+  "item.christmaschaos.gift_wrap_staff": "Gift Wrap Staff",
+  "item.christmaschaos.antler": "Antler",
+  "item.christmaschaos.candle_stick": "Candle Stick",
+  "item.christmaschaos.candy_cane_crusher": "Candy Cane Crusher",
+  "item.christmaschaos.eggnog": "Eggnog",
+  "item.christmaschaos.gumdrop": "Gumdrop",
+  "item.christmaschaos.hot_chocolate": "Hot Chocolate",
+  "item.christmaschaos.ornament_grenade": "Ornament Grenade",
+  "item.christmaschaos.damage_snowball": "Snowball",
+
+  "item.christmaschaos.snow_trench_drill": "Snow Trench Drill",
+  "item.christmaschaos.defuser": "Defuser",
+
+  "item.christmaschaos.elf_ears": "Elf Ears",
+  "item.christmaschaos.ugly_christmas_sweater": "Ugly Christmas Sweater",
+  "item.christmaschaos.pyjama_pants": "Pyjama Pants",
+  "item.christmaschaos.stockings": "Stockings",
+  "item.christmaschaos.santa_hat": "Santa Hat",
+  "item.christmaschaos.santas_coat": "Santa's Coat",
+  "item.christmaschaos.santas_trousers": "Santa's Trousers",
+  "item.christmaschaos.santas_boots": "Santa's Boots",
+
+  "block.christmaschaos.snow_mine": "Snow Mine",
+  "block.christmaschaos.fudge_block": "Fudge Block",
+
+  "sounds.christmaschaos.snow_mine_detonated": "Snow Mine Beeps",
+  "sounds.christmaschaos.candy_cane_licked": "Candy Cane Licked",
+
+  "itemgroup.christmas": "Christmas Chaos"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "christmaschaos:item/candy_cane_crusher"
+  }
+}

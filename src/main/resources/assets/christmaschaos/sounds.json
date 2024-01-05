@@ -1,0 +1,14 @@
+{
+  "snow_mine_detonated": {
+    "subtitle": "sounds.christmaschaos.snow_mine_detonated",
+    "sounds": [
+      "christmaschaos:snow_mine_detonated"
+    ]
+  },
+  "candy_cane_licked": {
+    "subtitle": "sounds.christmaschaos.candy_cane_licked",
+    "sounds": [
+      "christmaschaos:candy_cane_licked"
+    ]
+  }
+}
